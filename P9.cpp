@@ -1,6 +1,5 @@
 #include "dynamic-array.hpp"
 #include <cstdio>
-#include "splashkit.h"
 #include <string.h>
 
 // Define a structure to represent a product
